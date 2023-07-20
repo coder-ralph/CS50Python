@@ -32,7 +32,7 @@ The project includes unit tests to ensure the correctness of the `run_quiz()` fu
 2. Run the following command:
 
     ```
-    python project.py
+    python test_project.py
 
     ```
 
