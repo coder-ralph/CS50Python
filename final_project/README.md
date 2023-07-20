@@ -46,6 +46,11 @@ The project includes unit tests to ensure the correctness of the `run_quiz()` fu
 
 Feel free to contribute to the project by suggesting new features, reporting issues, or submitting pull requests.
 
+
+### Output Video
+
+![Output Video](https://github.com/coder-ralph/CS50Python/blob/master/final_project/quiz_game/output_video/quizgame.mp4)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
